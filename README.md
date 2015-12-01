@@ -11,8 +11,5 @@
 
 
 # これいれとけ
-* GitHub for Windows  
-http://windows.github.com/
-* GitHub for Mac  
-http://mac.github.com/
-
+* GitHub Desktop
+https://desktop.github.com

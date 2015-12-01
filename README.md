@@ -10,7 +10,7 @@
 3. 該当スレに「フォークしたったｗｗｗ」と書き込む  
 
 
-# 捗る
+# これいれとけ
 * GitHub for Windows  
 http://windows.github.com/
 * GitHub for Mac  

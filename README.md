@@ -12,4 +12,4 @@
 
 # これいれとけ
 * GitHub Desktop
-https://desktop.github.com
+ - https://desktop.github.com

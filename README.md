@@ -3,7 +3,7 @@
 ほんとGitHubは謎だらけだぜ。
 
 # はじめに
-1. 2ch専用アカウントを作る（普段使ってる本垢は非推奨）
+1. 2ch専用アカウントを作る
  - https://github.com/
 2. ↓を開いて「Fork」ボタンを押す（「Watch」や「Star」でもいいよ）
  - https://github.com/pg2ch/toilet

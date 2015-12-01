@@ -10,11 +10,9 @@
 
 # はじめに
 1. 2ch専用アカウントを作る（普段使ってる本垢は非推奨）
-https://github.com/
-
+ - https://github.com/
 2. ↓を開いて「Fork」ボタンを押す
-https://github.com/pg2ch/toilet
-
+ - https://github.com/pg2ch/toilet
 3. 該当スレに「フォークしたったｗｗｗ」と書き込む  
 
 

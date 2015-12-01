@@ -5,7 +5,7 @@
 # はじめに
 1. 2ch専用アカウントを作る
  - https://github.com/
-2. ↓を開いて「Fork」ボタンを押す（「Watch」や「Star」でもいいよ）
+2. ↓を開いて右上の「Start」ボタンを押す
  - https://github.com/pg2ch/toilet
 3. 該当スレに「フォークしたったｗｗｗ」と書き込む  
 
